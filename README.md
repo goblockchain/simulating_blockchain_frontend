@@ -19,7 +19,12 @@ Aplicação angular que permite interagir com um blockchain. Você pode ver os b
 Obtenha uma cópia do front-end em sua máquina local (para brincar, testar ou desenvolver).
 
 ```
-git clone https://github.com/wallaceAzevedo/simulating_blockchain_frontend.git
+git clone https://github.com/goblockchain/simulating_blockchain_frontend.git
+```
+
+Baixar dependências:
+```
+npm install
 ```
 
 Rodar a aplicação:
@@ -52,4 +57,8 @@ Neste ponto, o aplicativo deve estar sendo executado em sua máquina em [http://
 
 ---
 </br>
+
+<h3>Essa aplicação foi desenvolvida em cima de um video no youtube, o link do video está a baixo</h3>
+<a>https://www.youtube.com/watch?v=AQV0WNpE_3g</a>
+
 ⚠️Isso é apenas para fins educacionais. Isso não é de forma alguma uma implementação de blockchain completa (nem pretende ser uma). Use-o para aprender como os blockchains funcionam.
